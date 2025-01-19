@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+nav{
+    background-color: greenyellow;
+    padding: 15px;
+    text-align: center;
+}
+.nav-bar{
+    list-style: none;
+}
+.nav-bar li{
+    display: inline;
+    margin-right: 30px;
+}
+.nav-bar li a{
+    text-decoration: none;
+    color: black;
+}
+.nav-bar li a:hover{
+    border-bottom: 1px solid black;
+}
+.container{
+    width: 80%;
+    height: auto;
+    margin: 40px auto;
+
+}
+.food-cards{
+    height: 250px;
+    width: 250px;
+    background-color: bisque;
+    padding: 15px;
+    text-align: center;
+    position: relative;
+    
+}
+.food-cards img{
+    height: 150px;
+    width: 100%;
+}
+.food-cards h3{
+    margin: 5px;
+}
+.food-cards p{  
+    margin: 5px;
+}
+.c1{
+    position: absolute;
+   
+}
+.c2{
+    position: absolute;
+    left: 850px;
+}
+.c3{
+    position: absolute;
+    left: 1150px;
+}

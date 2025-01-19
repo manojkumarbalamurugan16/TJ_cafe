@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+div{
+     margin:40%;
+     top: 40%;
+     left: auto;
+     right: auto;
+    height: 400px;
+    width:400px;
+    background-color: white;
+}
+.t1{
+    text-decoration: none;
+}
